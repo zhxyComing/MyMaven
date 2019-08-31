@@ -14,8 +14,8 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.app.xz.module2</groupId>
-      <artifactId>module2</artifactId>
+      <groupId>com.app.xz.module3</groupId>
+      <artifactId>module3</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
